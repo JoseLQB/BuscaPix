@@ -10,5 +10,18 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-    background-color: black;
+}
+
+.jumbotron{
+  border-radius: 0px;
+  background-color: rgb(255, 249, 249);
+}
+
+img{
+  object-fit: cover;
+  width: 20px;
+}
+
+.col-12{
+  background-color: rgb(255, 249, 249);
 }

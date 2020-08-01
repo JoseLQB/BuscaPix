@@ -1,9 +1,12 @@
 import React from 'react';
-/*
-const Paginacion = props =>{
+
+const Pagination = props =>{
    return(
        <div className="py-3">
-           <button type=""
+            <button onClick={props.paginaAnterior} type="button" className="btn btn-info mr-1">Previous &larr;</button>
+            <button onClick={props.paginaSiguiente} type="button" className="btn btn-info">Next &rarr;</button>
        </div>
    ) 
-}*/
+}
+
+export default Pagination;
