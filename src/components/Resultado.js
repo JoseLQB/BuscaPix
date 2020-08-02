@@ -43,8 +43,6 @@ class Resultado extends Component{
             </React.Fragment>
         );
     }
-
-
 }
 
 export default Resultado;
