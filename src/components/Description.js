@@ -1,0 +1,1 @@
+///PRÓXIMO: Este componente contendrá información sobre la web, esta funcionará como portada y desaparecerá cuando el usuario utilice la búsqueda
